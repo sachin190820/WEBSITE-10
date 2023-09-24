@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <g id="pause" fill="none" fill-rule="evenodd">
+    <rect id="Rectangle" width="4" height="16" x="2" fill="#FFFFFF" fill-rule="nonzero"/>
+    <rect id="Rectangle" width="4" height="16" x="10" fill="#FFFFFF" fill-rule="nonzero"/>
+  </g>
+</svg>
